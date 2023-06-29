@@ -1,4 +1,4 @@
-# asp-net-core-blazor-challange
+# asp-net-core-blazor-challenge
 This coding challenge is for a .NET developer. We are assuming that you are familiar with .NET Core and REST.
 There is a "Blazor" part included which should be on beginner level but for an experienced developer.
 
